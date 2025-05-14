@@ -1,4 +1,4 @@
-### Fala galera! Meu nome é  Jheniffer Melissa,
+### Fala galera!
 
 Sou estudante de Ciência de Dados, e aqui você pode acompanhar meus estudos na área de programação.
 Estou terminando um curso de **Python**, e estou amando a linguagem, espero que em meus repositórios do curso você também consiga encontrar soluções e exercícios para você!!
