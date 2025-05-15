@@ -1,7 +1,7 @@
 ### Fala galera!
 
 Sou estudante de Ciência de Dados, e aqui você pode acompanhar meus estudos na área de programação.
-Estou terminando um curso de **Python**, e estou amando a linguagem, espero que em meus repositórios do curso você também consiga encontrar soluções e exercícios para você!!
+Estou me especializando em **Python**, e estou amando a linguagem, espero que em meus repositórios do curso você também consiga encontrar soluções e exercícios para você!!
 Também estou estudando **Inteligência Artificial**, e aqui você vai encontrar arquivos em .txt com todas as minhas anotações das aulas.
 
 📚 Aceito colaborações e dicas de estudo e de projetos!
