@@ -1,6 +1,6 @@
 ### Fala galera!
 
-Sou estudante de Ciência de Dados, e aqui você pode acompanhar meus estudos na área de programação.
+Aqui você pode acompanhar meus estudos e evolução na área de programação.
 Espero que em meus repositórios você também consiga encontrar soluções e exercícios para você!!
 Estou me especializando em banco de dados, Inteligência Artificial e Aprendizado de máquina. Mas já tenho conhecimento em linguagem Python, desenvolvimento web com HTML e CSS, e em Power BI.
 
